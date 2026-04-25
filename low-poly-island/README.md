@@ -1,1 +1,1 @@
-![image](https://github.com/emreEngineering/low-poly-island/envanto-render-v2.jpg)
+![image](./envanto-render-v2.jpg)
